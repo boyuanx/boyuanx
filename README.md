@@ -1,4 +1,4 @@
-![USC](https://github.com/boyuanx/boyuanx/blob/master/usc1.png?raw=true)
+<img src="https://github.com/boyuanx/boyuanx/blob/master/usc1.png?raw=true" height="200">
 
 # Greetings!
 #### I'm a Computer Science student pursuing a Master of Science degree at University of Southern California.

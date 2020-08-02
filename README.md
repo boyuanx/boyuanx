@@ -1,4 +1,4 @@
-![USC](usc1.png)
+![USC](https://github.com/boyuanx/boyuanx/blob/master/usc1.png?raw=true)
 
 # Greetings!
 #### I'm a Computer Science student pursuing a Master of Science degree at University of Southern California.
@@ -17,10 +17,9 @@
 ## Blockchain
 <img src="https://github.com/boyuanx/boyuanx/blob/master/Ethereum.png" height="50"> <img src="https://raw.githubusercontent.com/boyuanx/boyuanx/c46636153e74bdcd723d3673c615ddcf673caa8a/Solidity.svg" height="50"> <img src="https://raw.githubusercontent.com/boyuanx/boyuanx/c46636153e74bdcd723d3673c615ddcf673caa8a/truffle-logomark.svg" height="50"> <img src="https://github.com/boyuanx/boyuanx/blob/master/web3js.png" height="50">
 ## Modern
-<img src="Firebase_Logo_Logomark.png" height="50"> <img src="flutter.svg" height="50"> <img src="swift-original.svg" height="50"> <img src="git-original.svg" height="50"> <img src="html5-original.svg" height="50"> <img src="javascript-original.svg" height="50"> <img src="react-original.svg" height="50">
+<img src="https://github.com/boyuanx/boyuanx/blob/master/Firebase_Logo_Logomark.png?raw=true" height="50"> <img src="https://raw.githubusercontent.com/boyuanx/boyuanx/ae7271248dd068828acbd38e69048927204f0121/flutter.svg" height="50"> <img src="https://raw.githubusercontent.com/boyuanx/boyuanx/ae7271248dd068828acbd38e69048927204f0121/swift-original.svg" height="50"> <img src="https://raw.githubusercontent.com/boyuanx/boyuanx/ae7271248dd068828acbd38e69048927204f0121/git-original.svg" height="50"> <img src="https://raw.githubusercontent.com/boyuanx/boyuanx/ae7271248dd068828acbd38e69048927204f0121/html5-original.svg" height="50"> <img src="https://raw.githubusercontent.com/boyuanx/boyuanx/ae7271248dd068828acbd38e69048927204f0121/javascript-original.svg" height="50"> <img src="https://raw.githubusercontent.com/boyuanx/boyuanx/ae7271248dd068828acbd38e69048927204f0121/react-original.svg" height="50">
 ## Enterprise
-<img src="cplusplus-original.svg" height="50"> <img src="java-original.svg" height="50"> <img src="mysql-original.svg" height="50">
-
+<img src="https://raw.githubusercontent.com/boyuanx/boyuanx/ae7271248dd068828acbd38e69048927204f0121/cplusplus-original.svg" height="50"> <img src="https://raw.githubusercontent.com/boyuanx/boyuanx/ae7271248dd068828acbd38e69048927204f0121/java-original.svg" height="50"> <img src="https://raw.githubusercontent.com/boyuanx/boyuanx/ae7271248dd068828acbd38e69048927204f0121/mysql-original.svg" height="50"> <img src="https://github.com/boyuanx/boyuanx/blob/master/Tomcat.png?raw=true" height="50">
 
 
 [![Boyuan's github stats](https://github-readme-stats.vercel.app/api?username=boyuanx)](https://github.com/anuraghazra/github-readme-stats)

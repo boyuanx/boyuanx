@@ -13,7 +13,7 @@
 - Learning all about **Flutter, SwiftUI, Web3**
 - Reach me: boyuanxu@usc.edu
 
-# Things I Know
+# Things I'm Good At
 ## Blockchain
 <img src="https://github.com/boyuanx/boyuanx/blob/master/Ethereum.png" height="50"> <img src="https://raw.githubusercontent.com/boyuanx/boyuanx/c46636153e74bdcd723d3673c615ddcf673caa8a/Solidity.svg" height="50"> <img src="https://raw.githubusercontent.com/boyuanx/boyuanx/c46636153e74bdcd723d3673c615ddcf673caa8a/truffle-logomark.svg" height="50"> <img src="https://github.com/boyuanx/boyuanx/blob/master/web3js.png" height="50">
 ## Modern

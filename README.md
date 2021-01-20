@@ -3,7 +3,7 @@
 # Greetings!
 #### I'm a Computer Science student pursuing a Master of Science degree at University of Southern California.
 
-- I **have worked** as a Teaching Assistant for:
+- I **have worked** as a **Teaching Assistant** for:
   * ITP256: Blockchain
   * ITP342: iOS App Development
   * CSCI201: Principles of Software Development

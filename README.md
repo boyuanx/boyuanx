@@ -3,10 +3,13 @@
 # Greetings!
 #### I'm a Computer Science student pursuing a Master of Science degree at University of Southern California.
 
-- I'm currently working as a **Teaching Assistant** for:
+- I **have worked** as a Teaching Assistant for:
   * ITP256: Blockchain
   * ITP342: iOS App Development
   * CSCI201: Principles of Software Development
+- I'm currently working as a **Teaching Assistant** for:
+  * ITP344: Advanced iOS App Development
+  * ITP499: Python for Programmers
 - What I've been up to lately: `.dart`, `.js`, `.html`, `.css`, `.sol`, `.swift`
 - I'm mostly active within the **iOS & Ethereum Community**
 - Created: [Kyu - iOS](https://apps.apple.com/us/app/id1520824364), [Kyu - Android](https://play.google.com/store/apps/details?id=hcp.boyuanx.ohelper), [Ethsign](https://github.com/boyuanx/Ethsign)

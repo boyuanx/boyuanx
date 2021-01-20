@@ -7,7 +7,7 @@
   * ITP256: Blockchain
   * ITP342: iOS App Development
   * CSCI201: Principles of Software Development
-- I'm currently working as a **Teaching Assistant** for:
+- I'm **currently working** as a **Teaching Assistant** for:
   * ITP344: Advanced iOS App Development
   * ITP499: Python for Programmers
 - What I've been up to lately: `.dart`, `.js`, `.html`, `.css`, `.sol`, `.swift`

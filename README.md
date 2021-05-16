@@ -12,7 +12,7 @@
   * ITP499: Python for Programmers
 - What I've been up to lately: `.dart`, `.js`, `.html`, `.css`, `.sol`, `.swift`
 - I'm mostly active within the **iOS & Ethereum Community**
-- Created: [Kyu - iOS](https://apps.apple.com/us/app/id1520824364), [Kyu - Android](https://play.google.com/store/apps/details?id=hcp.boyuanx.ohelper), [Ethsign](https://github.com/boyuanx/Ethsign)
+- Created: [EthSign](https://ethsign.xyz), [Kyu - iOS](https://apps.apple.com/us/app/id1520824364), [Kyu - Android](https://play.google.com/store/apps/details?id=hcp.boyuanx.ohelper)
 - Learning all about **Flutter, SwiftUI, Web3**
 - Reach me: boyuanxu@usc.edu
 

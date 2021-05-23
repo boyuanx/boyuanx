@@ -1,5 +1,3 @@
-<img src="https://github.com/boyuanx/boyuanx/blob/master/usc1.png?raw=true">
-
 # Greetings!
 #### I'm a Computer Science student pursuing a Master of Science degree at University of Southern California.
 
@@ -14,7 +12,7 @@
 - I'm mostly active within the **iOS & Ethereum Community**
 - Created: [EthSign](https://ethsign.xyz), [Kyu - iOS](https://apps.apple.com/us/app/id1520824364), [Kyu - Android](https://play.google.com/store/apps/details?id=hcp.boyuanx.ohelper)
 - Learning all about **Flutter, SwiftUI, Web3**
-- Reach me: boyuanxu@usc.edu
+- Reach me: boyuanxu@usc.edu, jxu@ethsign.xyz
 
 # Things I'm Good At
 ## Blockchain
